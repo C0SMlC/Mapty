@@ -5,7 +5,7 @@ The original version of this website looks like [this](https://iampsr8.github.io
 1. Classes
 2. Inheritance in classes
 3. Private and protected fields in classes
-## The changes i did are as follows-
+## The Modifications I Did-
 1. Buttons to filter the activity
 2. Close the activity tab 
 3. Delete activity
